@@ -84,17 +84,6 @@ button {
   margin: 3.125rem auto 0 auto;
 }
 
-@media (min-width: 576px) {
-  .container {
-    max-width: 540px;
-  }
-}
-
-@media (min-width: 768px) {
-  .container {
-    max-width: 720px;
-  }
-}
 
 .header {
   padding: 0 0.625rem;
@@ -125,11 +114,6 @@ form {
   border-radius: 0.25rem;
 }
 
-@media (min-width: 480px) {
-  form {
-    padding: 2.5rem;
-  }
-}
 
 .form-group {
   margin: 0 auto 1.25rem auto;
